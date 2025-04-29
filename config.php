@@ -13,3 +13,9 @@ function get_public_folder_path(): string
 
     return "/public";
 }
+
+
+function is_new_paciente_available(): bool
+{
+    return false;
+}
