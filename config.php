@@ -17,5 +17,5 @@ function get_public_folder_path(): string
 
 function is_new_paciente_available(): bool
 {
-    return true;
+    return false;
 }
